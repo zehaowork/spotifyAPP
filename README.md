@@ -1,6 +1,7 @@
 # Spotify Search APP
 
-One Paragraph of project description goes here
+This is Spotify Search application that uses Spotify Web API to retrieve data and tkinter for application GUI
+This is an event-driven program
 
 ## Getting Started
 
@@ -14,10 +15,14 @@ some package may need to install using pip eg.PIL,requests,playsound
 pip install PIL
 ```
 
-###
+### Execution
+execue the view.py to start the program
 
+## Things to fix
+this application do not have a stop button for audio, and audio overlap if previous audio had not finish playing.
 
-
+## Things to improve
+Add some data analysing features for this application
 
 ## Built With
 
@@ -29,5 +34,5 @@ pip install PIL
 
 ## Authors
 
-* **Zehao** - *Initial work* - [PurpleBooth](https://github.com/PurpleBooth)
+* **Zehao Xue** - *Initial work* - [zx3g17](https://github.com/PurpleBooth)
 
