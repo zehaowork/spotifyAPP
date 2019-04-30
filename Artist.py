@@ -36,8 +36,5 @@ class Artist:
 # request for artist's top tracks using Spotify Web API
     def artist_top_track(self):
         track = api_request.request_artist_track(self.id)
-        print(self.name)
-
-
         return track
 

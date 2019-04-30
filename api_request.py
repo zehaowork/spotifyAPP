@@ -42,7 +42,6 @@ def request_artist_track(artist_id):
     params = (
         ('country', 'SE'),
     )
-    print(access_token)
     response = requests.get('https://api.spotify.com/v1/artists/'+artist_id+'/top-tracks', headers=headers,
                             params=params).json()
     parsed_result = parser.parse_top_track(response)
