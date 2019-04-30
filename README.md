@@ -1,6 +1,6 @@
 # Spotify Search APP
 
-This is Spotify Search application that uses Spotify Web API to retrieve data and tkinter for application GUI,it is an event-driven program.
+This is Spotify Search application that uses Spotify Web API to retrieve data and tkinter for application GUI,it is an event-driven program. Currently searchs for Artist only
 
 
 ## Getting Started
@@ -32,8 +32,8 @@ execue the view.py to start the program
 this application do not have a stop button for audio, and audio overlap if previous audio had not finish playing.
 
 ## Things to improve
-Add some data analysing features for this application
-
+* Add some data analysing features for this application
+* Allow other type of search
 
 ## Built With
 
