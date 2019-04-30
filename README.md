@@ -14,16 +14,16 @@ some package may need to install using pip eg.PIL,requests,playsound
 pip install PIL
 ```
 
-
+###
 
 
 
 
 ## Built With
 
-* [Spotify Web API](http://www.dropwizard.io/1.0.2/docs/) - The web framework used
-* [tkinter](https://maven.apache.org/) - Dependency Management
-* [Request](https://rometools.github.io/rome/) - Used to generate RSS Feeds
+* [Spotify Web API](https://developer.spotify.com/documentation/web-api/) -  RESTful API to retrieve data
+* [tkinter](https://docs.python.org/3/library/tk.html) - GUI framework
+* [Request](https://2.python-requests.org/en/master/) - Used for HTTP requests
 
 
 
@@ -31,14 +31,3 @@ pip install PIL
 
 * **Zehao** - *Initial work* - [PurpleBooth](https://github.com/PurpleBooth)
 
-See also the list of [contributors](https://github.com/your/project/contributors) who participated in this project.
-
-## License
-
-This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md) file for details
-
-## Acknowledgments
-
-* Hat tip to anyone whose code was used
-* Inspiration
-* etc
