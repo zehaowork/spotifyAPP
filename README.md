@@ -11,7 +11,7 @@ These instructions will get you a copy of the project up and running on your loc
 
 some package may need to install using pip eg.PIL,requests,playsound
 
-```
+```PurpleBooth
 pip install PIL
 ```
 
@@ -45,5 +45,5 @@ this application do not have a stop button for audio, and audio overlap if previ
 
 ## Authors
 
-* **Zehao Xue** - *Initial work* - [zx3g17](https://github.com/PurpleBooth)
+* **Zehao Xue** - *Initial work* - [zx3g17](https://github.com/zx3g17)
 
